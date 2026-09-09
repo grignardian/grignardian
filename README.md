@@ -59,11 +59,6 @@ Heya ppl! myself Labhansh Vashisht<br>First-year undergrad passionate about codi
 
 ---
 
-## Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gringardian&theme=tokyo-night)
-
----
 
 ## Currently Learning
 
