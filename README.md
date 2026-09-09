@@ -61,7 +61,7 @@ Heya ppl! myself Labhansh Vashisht<br>First-year undergrad passionate about codi
 
 ## Contribution Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=grignardian&theme=tokyo-night&hide_border=true)](https://github.com/grignardian)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gringardian&theme=tokyo-night)
 
 ---
 
