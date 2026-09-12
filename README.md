@@ -1,6 +1,6 @@
 # About Me
 
-Heya ppl! myself Labhansh Vashisht<br>First-year undergrad passionate about coding, problem-solving, and building practical projects. <br>I work with Python and have explored AI/ML libraries, data science, Streamlit, C, C++, and R. <br>I also love learning about cybersecurity fundamentals and enjoy vibe coding while experimenting with new ideas and technologies.<br>
+Heya ppl! myself Labhansh Vashisht<br>Second-year undergrad passionate about coding, problem-solving, and building practical projects. <br>I work with Python and have explored AI/ML libraries, data science, Streamlit, C, C++, and R. <br>I also love learning about cybersecurity fundamentals and enjoy vibe coding while experimenting with new ideas and technologies.<br>
 
 ---
 
